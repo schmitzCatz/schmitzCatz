@@ -19,7 +19,7 @@ I am a Enthusiastic Software Developer and Architect with over 15 Years of exper
 - 🌱 Learning about Communicaton Protocols and pitfalls in communication with Nb-Iot devices
 - 💬 Love to talk about software Architecture and best practises
 - 🐕 Dog Lover
-- 📫 Reach me on <a href="https://twitter.com/schmitzCatz" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-blue?style=social&logo=twitter"></a>
+- 📫 Reach me on <a href="https://twitter.com/schmitzCatz" target="_blank"><img alt="X (Twitter)" src="https://img.shields.io/badge/Social%20Media-blue?style=social&logo=x"></a>
 
 ## 💼 Languages and Tools
 <div>
